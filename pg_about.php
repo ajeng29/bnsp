@@ -74,7 +74,7 @@
                                     Aplikasi ini dibuat oleh:<br>
                                     Nama: Ajeng Eka Yudianingrum <br>
                                     NIM : 1931710057 <br>
-                                    Tanggal : 26 Oktober 2021
+                                    Tanggal : 23 Oktober 2021
                                 </div>
                             </td>
                         </tr>
